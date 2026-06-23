@@ -1,6 +1,4 @@
-# dasha-writes
-
-Content &amp; Documentation Portfolio — Daria Nikolaieva
+# Content &amp; Documentation Portfolio — Daria Nikolaieva
 
 Hi there 🖖 Most people know me as Dasha 🙃
 ---
